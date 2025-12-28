@@ -1,5 +1,5 @@
 
-body{
+\body{
     background-color:green;
 }
 
@@ -21,10 +21,14 @@ p{
     font-family: monospace;
 }
 
-
 header {
     background-color: darkgreen;
     padding: 10px;
+    text-align: center;
+    font-size: 50px;
+    text-decoration: none;
+    color: green;
+    font-family: monospace;
 }
 
 main p {
