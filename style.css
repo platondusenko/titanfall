@@ -35,6 +35,19 @@ body {
   }
 }
 
+.steam-button {
+  background-color: #66cc33; 
+  color: white;
+  padding: 10px 20px;
+  text-decoration: none;
+  border-radius: 8px;
+  font-weight: bold;
+  display: inline-block;
+  box-shadow: 0 4px #45a033;
+  text-align: center;
+  cursor: pointer;
+}
+
 h1 {
     text-align: center;
     font-size: 50px;
@@ -45,6 +58,26 @@ h2 {
     color: lawngreen;
     font-size: 30px;
     text-align: center;
+}
+
+table {
+    color: greenyellow;
+    font-size: 30px;
+    margin: 0 auto;
+}
+
+table,th,td{
+  border: 3px solid grey;
+  text-align:center;
+} 
+
+th,td{
+   padding:10px;
+}
+
+caption{
+  font-size:30px;
+  color:greenyellow;
 }
 
 p{
@@ -84,14 +117,4 @@ img{
 
 div {
     text-align: center;
-}
-
-a {
-    text-align: center;
-    font-size: 30px;
-    color: black;
-    border: 3px solid darkblue;
-    text-decoration: none;
-    padding: 10px;
-    margin: 100px;
 }
