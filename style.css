@@ -65,11 +65,13 @@ table {
     color: greenyellow;
     font-size: 30px;
     margin: 0 auto;
+    font-family:Marker Felt, fantasy;
 }
 
 table,th,td{
   border: 5px solid grey;
   text-align:center;
+  font-family:Marker Felt, fantasy;
 } 
 
 th,td{
@@ -79,6 +81,7 @@ th,td{
 caption{
   font-size:40px;
   color:greenyellow;
+  font-family:Marker Felt, fantasy;
 }
 
 p{
