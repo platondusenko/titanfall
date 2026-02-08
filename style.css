@@ -52,6 +52,7 @@ h1 {
     text-align: center;
     font-size: 60px;
     color:lawngreen;
+    font-family: Comic Sans MS, Comic Sans, cursive;
 }
 
 h2 {
@@ -83,7 +84,7 @@ caption{
 p{
     color:greenyellow;
     font-size: 50px;
-    font-family: monospace;
+    font-family: Luminari, fantasy;
 }
 
 header {
@@ -93,7 +94,7 @@ header {
     font-size: 50px;
     text-decoration: none;
     color: darkgreen;
-    font-family: monospace;
+    font-family: Impact, fantasy;
 }
 
 main p {
@@ -109,6 +110,7 @@ footer {
     padding: 10px;
     width: 1100px;
     font-size: 30px;
+    font-family: Bradley Hand, cursive;
 }
 
 img{
